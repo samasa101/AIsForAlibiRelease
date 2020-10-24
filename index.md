@@ -6,6 +6,7 @@
 |
 [A is for Alibi Tech Demo Download](AisForAlibi/AisforAlibi_Tech_Demo.zip)
 ---
+## [A is for Alibi Windows Download](AisForAlibi/AisforAlibi_Windows.zip)
 ## Credits
 ## Yuzhen Gao-Programmer
 ---
