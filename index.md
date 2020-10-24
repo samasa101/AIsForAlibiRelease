@@ -7,8 +7,12 @@
 [A is for Alibi Tech Demo Download](AisforAlibi_Tech_Demo.zip)
 ---
 ## Credits
-Yuzhen Gao-Programmer
-Sam Mackenzie-Writer, Producer
-Andy Li-Art, Design Lead
-Jingyuan Yang-Art
-Luv Rathod-Music
+## Yuzhen Gao-Programmer
+---
+## Sam Mackenzie-Writer, Producer
+---
+## Andy Li-Art, Design Lead
+---
+## Jingyuan Yang-Art
+---
+## Luv Rathod-Music
