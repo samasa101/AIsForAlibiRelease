@@ -4,7 +4,7 @@
 ---
 [A is for Alibi Tech Demo](/AisforAlibi/AisforAlibi_Tech_Demo/www/index.html)
 |
-[A is for Alibi Tech Demo Download](AisforAlibi_Tech_Demo.zip)
+[A is for Alibi Tech Demo Download](AisForAlibi/AisforAlibi_Tech_Demo.zip)
 ---
 ## Credits
 ## Yuzhen Gao-Programmer
