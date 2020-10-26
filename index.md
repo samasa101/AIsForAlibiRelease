@@ -2,7 +2,7 @@
 ---
 ## A game by Pancake Studios
 ---
-[A is for Alibi Demo](/AisforAlibi/AisforAlibi_Tech_Demo/A_isforAlibi_Web/www/index.html)
+[A is for Alibi Demo](AisforAlibi/AisforAlibi_Tech_Demo/A_isforAlibi_Web/www/index.html)
 |
 [A is for Alibi Demo Download](AisForAlibi/AisforAlibi_Windows.zip)
 
