@@ -1,8 +1,0 @@
-[
-null,
-{"id":1,"expanded":true,"name":"A","order":1,"parentId":0,"scrollX":811,"scrollY":492},
-{"id":2,"expanded":true,"name":"B","order":2,"parentId":1,"scrollX":850,"scrollY":624},
-{"id":3,"expanded":true,"name":"C","order":3,"parentId":2,"scrollX":811,"scrollY":492},
-{"id":4,"expanded":true,"name":"living room","order":4,"parentId":1,"scrollX":811,"scrollY":596},
-{"id":5,"expanded":false,"name":"bedroom","order":5,"parentId":4,"scrollX":819,"scrollY":460}
-]
