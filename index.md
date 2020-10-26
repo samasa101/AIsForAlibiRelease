@@ -2,11 +2,10 @@
 ---
 ## A game by Pancake Studios
 ---
-[A is for Alibi Tech Demo](/AisforAlibi/AisforAlibi_Tech_Demo/A_isforAlibi_Web/www/index.html)
+[A is for Alibi Demo](/AisforAlibi/AisforAlibi_Tech_Demo/A_isforAlibi_Web/www/index.html)
 |
-[A is for Alibi Tech Demo Download](AisForAlibi/AisforAlibi_Windows.zip)
----
-## [A is for Alibi Windows Download](AisForAlibi/AisforAlibi_Windows.zip)
+[A is for Alibi Demo Download](AisForAlibi/AisforAlibi_Windows.zip)
+
 ## Credits
 ## Yuzhen Gao-Programmer
 ---
