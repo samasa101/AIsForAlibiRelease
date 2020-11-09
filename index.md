@@ -1,5 +1,5 @@
 
-## A game by Pancake Studios
+### A game by Pancake Studios
 ---
 ## [A is for Alibi Beta](AisforAlibi/AisforAlibi_Web/www/index.html)
 ---
@@ -7,7 +7,7 @@
 ---
 ## [Survey](https://docs.google.com/forms/d/e/1FAIpQLSfEawLXktdfxAs08lr5I0UBQtNRTaOYUhkBIDsvlFRH6zMing/viewform?usp=sf_link)
 ---
-## Credits
+### Credits
 ## Yuzhen Gao-Programmer
 ---
 ## Sam Mackenzie-Writer, Producer
@@ -18,7 +18,7 @@
 ---
 ## Luv Rathod-Music
 ---
-Instructions
+### Instructions
 ---
 Controls: Move with arrow keys, interact with the spacebar.
 
