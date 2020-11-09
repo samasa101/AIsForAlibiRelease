@@ -1,5 +1,4 @@
-# A is for Alibi
----
+
 ## A game by Pancake Studios
 ---
 ## [A is for Alibi Beta](AisforAlibi/AisforAlibi_Web/www/index.html)
