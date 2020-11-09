@@ -17,3 +17,10 @@
 ## Jingyuan Yang-Art
 ---
 ## Luv Rathod-Music
+---
+Instructions
+---
+Controls: Move with arrow keys, interact with the spacebar.
+
+
+Good-to-know: There is a notebook directly in front of you when you star the game. Make sure to pick this up and check it often. It can be found under your inventory and details all active quests and objectives.
