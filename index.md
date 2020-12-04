@@ -1,9 +1,9 @@
 
 ## A game by Pancake Studios
 ---
-### [A is for Alibi Beta](AisforAlibi/AisforAlibi_Web/www/index.html)
+### [Play A is for Alibi](AisforAlibi/AisforAlibi_Web/www/index.html)
 
-### [A is for Alibi Beta Download (Windows)](AisforAlibi_Windows.7z)
+### [Download A is for Alibi (Windows)](AisforAlibi_Windows.7z)
 
 ### [Survey](https://docs.google.com/forms/d/e/1FAIpQLSfEawLXktdfxAs08lr5I0UBQtNRTaOYUhkBIDsvlFRH6zMing/viewform?usp=sf_link)
 ---
@@ -18,9 +18,11 @@
 ---
 ### Luv Rathod-Music
 ---
-## Instructions
+## How to Play
 ---
-Controls: Move with arrow keys, interact with the spacebar.
+MOVEMENT: Either arrow keys or mouse control
 
+INTERACT: Left click or "Z"
 
-Good-to-know: There is a notebook directly in front of you when you star the game. Make sure to pick this up and check it often. It can be found under your inventory and details all active quests and objectives.
+HOW TO ACCESS NOTEBOOK: Press "ESC" and enter the inventory menu, select the item sub-menu and then select the Notebook item
+	HOW TO COMBINE ITEMS: For Herbs: When acquired, select the Mortar & Pestle | For Teapot: COmbine Herbs, then select the Teapot in the inventory
