@@ -38,9 +38,9 @@ Window_Base.prototype.lineHeight = function() {
 
 Window_Base.prototype.standardFontFace = function() {
     if ($gameSystem.isChinese()) {
-        return 'SimHei, Heiti TC, sans-serif';
+        return 'GameFont, SimHei, Heiti TC, sans-serif';
     } else if ($gameSystem.isKorean()) {
-        return 'Dotum, AppleGothic, sans-serif';
+        return 'GameFont, Dotum, AppleGothic, sans-serif';
     } else {
         return 'GameFont';
     }
