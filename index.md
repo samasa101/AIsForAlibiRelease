@@ -21,7 +21,7 @@
 ---
 MOVEMENT: Either arrow keys or mouse control
 
-INTERACT: Left click or "Z"
+INTERACT: Left click or "Z" 
 
 HOW TO ACCESS NOTEBOOK: Press "ESC" and enter the inventory menu, select the item sub-menu and then select the Notebook item
 	HOW TO COMBINE ITEMS: For Herbs: When acquired, select the Mortar & Pestle | For Teapot: COmbine Herbs, then select the Teapot in the inventory
