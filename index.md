@@ -15,7 +15,7 @@
 ---
 ### Jingyuan Yang-Art
 ---
-### Luv Rathod-Music
+### Luv Rathod-Music, Additional Programming
 ---
 ## How to Play
 ---
